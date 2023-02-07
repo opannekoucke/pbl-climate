@@ -1,0 +1,4 @@
+netCDF4==1.6.2
+numpy==1.21.5
+cartopy==0.21.1
+sklearn==1.0.2
